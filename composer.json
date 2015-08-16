@@ -5,6 +5,14 @@
     "keywords": ["theme", "bundle", "symfony"],
     "license": "MIT",
     "minimum-stability": "dev",
+    "require": {
+        "egeloen/ckeditor-bundle": "~2.0",
+        "knplabs/knp-paginator-bundle": "~2.4",
+        "gregwar/image-bundle": "dev-master",
+        "essence/essence": "~2.5",
+        "astina/social-links-bundle": "~2.1",
+        "jms/di-extra-bundle": "dev-master"
+    },
     "authors": [
         {
             "name": "Rofilde Hasudungan Sitorus Pane",
